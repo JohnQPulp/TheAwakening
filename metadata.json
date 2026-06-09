@@ -1,0 +1,15 @@
+{
+  "title": "The Awakening",
+  "shortTitle": "The Awakening",
+  "author": "Kate Chopin",
+  "year": 1899,
+  "source": "https://standardebooks.org/ebooks/kate-chopin/the-awakening",
+  "words": 49860,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/TheAwakening",
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)",
+  "blurb": "foo",
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
+}
